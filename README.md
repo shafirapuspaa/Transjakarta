@@ -47,4 +47,4 @@ Transjakarta terbagi menjadi beberapa layanan,seperti: layanan wisata,layanan an
 6. Beberapa penumpang yang tidak menaiki layanan mikrotrans dan bus wisata memiliki payamount = 0, mengapa demikian? 
 Hal ini dapat terjadi karena penumpang menggunakan paycard DKI. Terdapat aturan yang menjelaskan bahwa ada beberapa kriteria penumpang yang menggunakan paycard DKI tidak dikenakan biaya layanan. Dalam data terdapat 1400 penumpang yang memakai Paycard DKI dengan payamoun 0 walaupun bukan termasuk layanan mikrotrans dan wisata. Namun terdapat penumpang menggunakan paycard lain mendapatkan payamount 0 yang tidak seharusnya. Hal ini dapat terjadi karena beberapa kondisi tertentu yang belum dianalisis lebih lanjut.
 
-
+link [Tableau](https://public.tableau.com/app/profile/shafira.ardelia/viz/AnalisisTransjakarta/main)
